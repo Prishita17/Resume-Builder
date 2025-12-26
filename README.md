@@ -1,7 +1,6 @@
 # Resume-Builder
 Web based editor to create Resume in a customizable template  
 
-<a href="https://comradesurendra.github.io/Resume-Builder/"> https://comradesurendra.github.io/Resume-Builder/ </a>
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
