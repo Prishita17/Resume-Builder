@@ -26,9 +26,29 @@ Web based editor to create Resume in a customizable template
 
 Screenshot of the project
 
+Login Page
+
+<img width="550" height="337" alt="Screenshot 2026-01-20 at 10 31 56 PM" src="https://github.com/user-attachments/assets/bd566792-5356-488d-9f62-fcee77bfd9ea" />
+
+Create Resume
+
 <img width="1425" height="780" alt="Screenshot 2026-01-20 at 10 13 41 PM" src="https://github.com/user-attachments/assets/834f90ea-cfb5-4092-bfb8-3e6af743e80d" />
 
 <img width="1430" height="788" alt="Screenshot 2026-01-20 at 10 13 49 PM" src="https://github.com/user-attachments/assets/9c4c5c9f-af91-4a73-accc-5db2137380cc" />
+
+Output of Resume
+
+<img width="523" height="517" alt="Screenshot 2026-01-20 at 10 32 01 PM" src="https://github.com/user-attachments/assets/67b9f406-d1b1-4c29-9ba6-8e17a4513fdc" />
+
+
+<img width="903" height="580" alt="Screenshot 2026-01-20 at 10 32 19 PM" src="https://github.com/user-attachments/assets/cfe06781-f72c-4267-b3ef-b4f76a721307" />
+
+
+Resume gets stored in databse, so you can visit later
+
+<img width="462" height="472" alt="Screenshot 2026-01-20 at 10 32 08 PM" src="https://github.com/user-attachments/assets/0b5139f9-6d2d-4743-a134-38487e994a8d" />
+
+
 
 
 ## Acknowledgement
