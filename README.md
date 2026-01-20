@@ -31,6 +31,13 @@ Screenshot of the project
 <img width="1430" height="788" alt="Screenshot 2026-01-20 at 10 13 49 PM" src="https://github.com/user-attachments/assets/9c4c5c9f-af91-4a73-accc-5db2137380cc" />
 
 
+## Acknowledgement
+
+This project was developed for learning purposes and is inspired by open-source
+e-commerce projects available on GitHub
+
+
+
 
 **Note** : Use Google Chrome
          : and better if open on desktop
